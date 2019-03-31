@@ -5,7 +5,7 @@ class Game
     private $playerScore;
     private $opponentScore;
     private $playerChoice;
-    private$opponentChoice;
+    private $opponentChoice;
     private $message;
 
     public function __construct()
