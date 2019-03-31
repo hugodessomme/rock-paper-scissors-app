@@ -1,4 +1,6 @@
-# Rock, paper, scissors App
+# Rock, paper, scissors app
+
+![demo](./demo.gif)
 
 ## Installation
 
